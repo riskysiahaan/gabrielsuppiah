@@ -1,0 +1,258 @@
+@media (max-width:1025px)  {
+    .navbar{
+        width: auto !important;
+    }
+
+    a{
+        font-size: 4vw;
+    }
+
+    p{
+        font-size: 2.2vw;
+    }
+
+    /* footer */
+    .footer-wrapper{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        flex-direction: column;
+    }
+
+    .contact-title h4{
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .fr-1-button-contact-us{
+        width: 50vw;
+        height: 10vw;
+    }
+
+    .fr-1-copyright{
+        display: none;
+    }
+
+    .fr-1-copyright-mobile{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .fr-1-copyright-mobile img{
+        max-width: 100%;
+    }
+
+    .fr-1-copyright-img{
+        width: 25vw;
+    }
+
+    .fr-1-copyright-p{
+        width: 25vw;
+    }
+
+    /* Banner */
+    .banner{
+        height: auto;
+    }
+    .banner-row h1{
+        width: 60vw;
+        font-size: 12vw;
+    }
+
+    .banner-row p{
+        width: 60vw;
+        font-size: 4vw;
+    }
+
+    .banner-row .button-a{
+        width: 40vw;
+        height: 10vw;
+    }
+
+    /* Testimony */
+    .testimoni-1-wrapper{        
+        height: 45.194vw;
+    }
+
+    .testimoni-1-col h6{
+        font-size: 2.5vw;
+    }
+
+    .testimoni-1-img-face{
+        margin-top: -13vw;
+    }
+
+    .gs-1-row-2{
+        display: none;
+    }
+
+    .gs-1{
+        background-image: url(../img/gabriel-suppiah-3.png);
+        background-position-x: center;
+        background-position-y:top;
+        background-size:cover ;
+    }
+
+    .gs-1-wrapper{
+        margin: 25vw 5vw 5vw 5vw;
+    }
+
+    .gs-1-row-1{
+        width: 90vw;
+    }
+
+    .gs-1-col h1{
+        font-size: 10vw;
+        padding-bottom: 3vw;
+    }
+
+    .gs-1-col p{
+        font-size: 15px;
+    }
+
+    .social-wrapper{
+        padding: 1.5vw 1.5vw;
+    }
+
+    .focus-item{
+        height: auto;
+    }
+
+    .item-for-educator{
+        height: auto;
+    }
+
+    .item-3-background{
+        background-position-x: center;
+        background-size: 250px;
+    }
+
+    .form-wrapper{
+        width: 90vw;
+    }
+
+    .focus-row-2{
+        padding: 3.5vw;
+    }
+
+    .banner-2-wrapper p{
+        font-size: 3vw;
+    }
+
+    .signature{
+        height: auto;
+        background: url(../img/signature-background.jpg);
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .signature-col{
+        width: 60vw;
+    }
+
+    .signature-col h5{
+        font-size: 4vw;
+    }
+
+    .signature-col h4{
+        font-size: 3vw;
+    }
+
+    .signature-col p{
+        font-size: 4vw;
+    }
+
+    .signature-col img{
+        max-width: 60%;
+    }
+
+    .form-wrapper h4{
+        font-size: 4vw;
+    }
+
+    .banner-row{
+        margin-top: 3vw;
+    }
+
+    /* Privacy */
+     /* Privacy */
+     .privacy-wrapper{
+        margin: 1vw 3vw;
+    }
+
+    .privacy-title h1{
+        padding: 2vw;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: auto;
+        font-size: 35px;
+        line-height: 45px;
+        letter-spacing: -0.015em;
+
+        color: #FFFFFF;
+    }
+
+    .privacy-section{
+        margin-top: 4vw;
+    }
+
+    .privacy-section p{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: auto;
+        font-size: 15px;
+        line-height: auto;
+        /* or 167% */
+    
+        letter-spacing: -0.015em;
+    
+        color: #FFFFFF;
+    }
+
+    .privacy-section li{
+        margin-top: 1.2vw;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: auto;
+        font-size: 15px;
+        line-height: auto;
+        /* or 167% */
+    
+        letter-spacing: -0.015em;
+    
+        color: #FFFFFF;
+    }
+
+    .privacy-section h2{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: auto;
+        font-size: 28px;
+        line-height: auto;
+        letter-spacing: -0.015em;
+    
+        color: #FFFFFF;
+    }
+
+    .privacy-section h3{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: auto;
+        font-size: 22px;
+        line-height: auto;
+        letter-spacing: -0.015em;
+    
+        color: #FFFFFF;
+    }
+    .privacy-section h4{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: auto;
+        font-size: 18px;
+        line-height: auto;
+        letter-spacing: -0.015em;
+    
+        color: #FFFFFF;
+    }
+}
